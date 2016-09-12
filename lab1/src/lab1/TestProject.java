@@ -1,8 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+Benjamin Brandt CIS 3138 
+Main class to run testing on Date Lab
+Returns true if the method passed all tests
+*/
 package lab1;
 
 import org.junit.runner.JUnitCore;
